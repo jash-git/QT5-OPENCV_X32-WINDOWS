@@ -1,5 +1,8 @@
 QT5 OPENCV_X32 WINDOWS
 
+opencv download
+https://opencv.org/releases/
+
 自行編譯OPENCV
 https://www.codenong.com/cs106346328/
 https://medium.com/@shinfu619_8469/%E7%B7%A8%E8%AD%AF%E6%94%AF%E6%8F%B4qt%E5%8F%8Aopengl%E7%9A%84opencv%E5%BA%AB-af699dbca563
